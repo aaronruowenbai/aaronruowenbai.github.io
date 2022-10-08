@@ -1,1 +1,1 @@
-R. Bai and S. Hranilovic, “Low-complexity layered ACO-OFDM for power-efficient visible light communications,” IEEE Trans. Green Commun. Netw., vol. 6, no. 3, pp. 1780-1792, Sept. 2022.
+R. Bai and S. Hranilovic, "Layered Antisymmetry-Constructed Clipped Optical OFDM for Low-Complexity VLC Systems." Optics Express, vol. 29, no. 7, pp. 10613-10630, Mar. 2021.
