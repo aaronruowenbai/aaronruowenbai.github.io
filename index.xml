@@ -1047,7 +1047,7 @@
 																									<_values type="list">
 																										<item type="str">Ph.D. (GPA:</item>
 																										<item type="str">;</item>
-																										<item type="str">) degree in Electrical and Computer Engineering</item>
+																										<item type="str">) in Electrical and Computer Engineering</item>
 																									</_values>
 																									<a type="list">
 																										<item type="dict">
@@ -1226,10 +1226,10 @@
 																	<_value type="str">[2020] Ph.D. Comprehensive Examination: Pass with Distinction (P+)</_value>
 																</item>
 																<item type="dict">
-																	<_value type="str">[2017] National Scholarship for Graduate Students at Tsinghua University (¥20000, Rank 1/62)</_value>
+																	<_value type="str">[2017] National Scholarship for Graduate Students at Tsinghua University (Â¥20000, Rank 1/62)</_value>
 																</item>
 																<item type="dict">
-																	<_value type="str">[2014] National Scholarship for Undergraduate Students at Nankai University (¥8000, Rank 1/46)</_value>
+																	<_value type="str">[2014] National Scholarship for Undergraduate Students at Nankai University (Â¥8000, Rank 1/46)</_value>
 																</item>
 																<item type="dict">
 																	<_value type="str">[2014] National First Prize in Contemporary Undergraduate Mathematical Contest in Modeling</_value>
@@ -1238,7 +1238,7 @@
 																	<_value type="str">[2013] Tianjin Province-First Prize in National Undergraduate Electronic Design Contest</_value>
 																</item>
 																<item type="dict">
-																	<_value type="str">[2012] Tianjin Province-First Prize in “TI Cup” Undergraduate Electronic Design Contest</_value>
+																	<_value type="str">[2012] Tianjin Province-First Prize in Â“TI CupÂ” Undergraduate Electronic Design Contest</_value>
 																</item>
 															</li>
 														</item>
@@ -2631,7 +2631,7 @@
 												</item>
 											</a>
 											<_values type="list">
-												<item type="str">©Aaron Bai ·
+												<item type="str">Â©Aaron Bai Â·
 
     Powered by the</item>
 												<item type="str">for</item>
@@ -2735,7 +2735,7 @@
 																	<_attributes type="dict">
 																		<aria-hidden type="str">true</aria-hidden>
 																	</_attributes>
-																	<_value type="str">×</_value>
+																	<_value type="str">Ã—</_value>
 																</item>
 															</span>
 														</item>
